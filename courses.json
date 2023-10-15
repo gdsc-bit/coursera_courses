@@ -1,6 +1,6 @@
 [
   {
-    "id" :  1,
+    "id" :  "coursera 1",
     "platform" : "coursera",
     "free_course" : "yes",
     "course_name" : "Basic Python",
@@ -10,7 +10,7 @@
     "certification" : "free"
   },
   {
-    "id" :  2,
+    "id" :  "coursera 2",
     "platform" : "coursera",
     "free_course" : "yes",
     "course_name" : "Basic C",
