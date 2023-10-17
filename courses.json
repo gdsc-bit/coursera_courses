@@ -18,5 +18,15 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+   {
+    "id" :  3,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "c programing for beginners",
+    "link" : "https://www.guvi.in/courses/programming/c-programming-for-beginners/",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "free"
   }
 ]
