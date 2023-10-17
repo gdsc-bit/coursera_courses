@@ -18,5 +18,15 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+  {
+    "id" :  3,
+    "platform" : "youtube",
+    "free_course" : "yes",
+    "course_name" : "Python",
+    "link" : "https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f&pp=iAQB",
+    "difficulty" : "beginner",
+    "module_number" : 21,
+    "certification" : "no"
   }
 ]
