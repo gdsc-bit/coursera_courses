@@ -18,5 +18,15 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+  {
+    "id" :  3,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Master of Science in Cybersecurity Management",
+    "link" : "https://www.coursera.org/degrees/master-of-science-in-cybersecurity-management-utah",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
   }
 ]
