@@ -18,5 +18,15 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+   {
+    "id" :  3,
+    "platform" : "coursera",
+    "free_course" : "no",
+    "course_name" : "R Level 1 - Data Analytics with R",
+    "link" : "https://www.udemy.com/course/r-level1/",
+    "difficulty" : "beginner",
+    "module_number" : 87,
+    "certification" : "paid"
   }
 ]
