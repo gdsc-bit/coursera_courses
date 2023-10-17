@@ -20,11 +20,11 @@
     "certification" : "paid"
   },
   {
-    "id" :  3,
+    "id" :  4,
     "platform" : "coursera",
     "free_course" : "yes",
-    "course_name" : "Google Project Management",
-    "link" : "https://www.coursera.org/professional-certificates/google-project-management",
+    "course_name" : "Python for Everybody Specialization",
+    "link" : "https://www.coursera.org/specializations/python",
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "free"
