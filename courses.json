@@ -18,5 +18,15 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+  {
+    "id" :  3,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Google Project Management",
+    "link" : "https://www.coursera.org/professional-certificates/google-project-management",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "free"
   }
 ]
