@@ -13,10 +13,20 @@
     "id" :  2,
     "platform" : "coursera",
     "free_course" : "yes",
-    "course_name" : "Basic C",
+    "course_name" : ",
     "link" : "https://coursera.com/Basic-C",
     "difficulty" : "beginner",
     "module_number" : 7,
+    "certification" : "paid"
+  },
+  {
+    "id" :  3,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Deep Learning Specialization",
+    "link" : "https://www.coursera.org/specializations/deep-learning",
+    "difficulty" : "intermediate",
+    "module_number" : 5,
     "certification" : "paid"
   }
 ]
