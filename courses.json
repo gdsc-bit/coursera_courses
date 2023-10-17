@@ -1,4 +1,4 @@
-[
+
   {
     "id" :  1,
     "platform" : "coursera",
@@ -18,5 +18,14 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
-  }
-]
+  },
+{ "id" : 3,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Basic C",
+    "link" : "https://coursera.com/Basic-C",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
+
+
