@@ -18,5 +18,15 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
-  }
+  },
+  {
+    "id" :  3,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "python for everybody",
+    "link" : "https://www.coursera.org/learn/python?specialization=python",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
+  },
 ]
