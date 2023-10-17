@@ -18,5 +18,17 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+  {
+    "id" :  7,
+    "platform" : "coursera",
+    "free_course" : "no",
+    "course_name" : "ChatGPT Advanced Data Analysis",
+    "link" : "https://www.coursera.org/learn/chatgpt-advanced-data-analysis",
+    "difficulty" : "beginner",
+    "module_number" : 3,
+    "certification" : "paid"
   }
+  
+
 ]
