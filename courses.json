@@ -22,7 +22,7 @@
   {
     "id" :  3,
     "platform" : "coursera",
-    "free_course" : "yes",
+    "free_course" : "no",
     "course_name" : "Master of Science in Cybersecurity Management",
     "link" : "https://www.coursera.org/degrees/master-of-science-in-cybersecurity-management-utah",
     "difficulty" : "beginner",
