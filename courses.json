@@ -18,5 +18,16 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
-  }
+  },
+  {
+    "id" : 3,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "C Programming: Getting Started - 1",
+    "link" : "https://www.coursera.org/learn/c-programming-getting-started",
+    "difficulty" : "beginner",
+    "module_number" : 5,
+    "certification" : "free"
+
+    
 ]
