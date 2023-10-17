@@ -18,5 +18,14 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
-  }
+  },
+  "id" :  3,
+    "platform" : "udemy",
+    "free_course" : "no",
+    "course_name" : "Learn Python Programming Masterclass",
+    "link" : "https://www.udemy.com/course/python-the-complete-python-developer-course/",
+    "difficulty" : "beginner",
+    "module_number" : 23,
+    "certification" : "paid"
+  
 ]
