@@ -18,5 +18,14 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
-  }
+  },
+  "id" :  3,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Crash Course on Python",
+    "link" : "https://www.coursera.org/learn/python-crash-course",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "free"
+   
 ]
