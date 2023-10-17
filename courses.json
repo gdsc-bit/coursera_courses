@@ -18,5 +18,15 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+  {
+    "id" :  3,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Single Page Web Applications with AngularJS",
+    "link" : "https://www.coursera.org/learn/single-page-web-apps-with-angularjs",
+    "difficulty" : "beginner",
+    "module_number" : 9,
+    "certification" : "paid"
   }
 ]
