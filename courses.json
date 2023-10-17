@@ -18,5 +18,14 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+  {"id" :  3,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Cybersecurity for Everyone",
+    "link" : "https://www.coursera.org/learn/cybersecurity-for-everyone",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "paid"
   }
 ]
