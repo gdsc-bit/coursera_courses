@@ -18,5 +18,15 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+  {
+    "id" :  3,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Data Analytics",
+    "link" : "https://coursera.org/professional-certificates/google-data-analytics",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
   }
 ]
