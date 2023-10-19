@@ -29,5 +29,14 @@
     "module_number" : 8,
     "certification" : "paid"
   },
-  
+  {
+    "id" :  4,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Meta Front-End Developer Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/meta-front-end-developer",
+    "difficulty" : "beginner",
+    "module_number" : 9,
+    "certification" : "paid"
+  }
 ]
