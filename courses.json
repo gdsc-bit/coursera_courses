@@ -138,6 +138,16 @@
     "difficulty" : "beginner",
     "module_number" : 6,
     "certification" : "free"
+  },
+  {
+    "id" :  15,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Introduction to Java",
+    "link" : "https://www.coursera.org/learn/java-introduction",
+    "difficulty" : "beginner",
+    "module_number" : 3,
+    "certification" : "paid"
   }
     
 ]
