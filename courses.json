@@ -129,14 +129,14 @@
     "module_number" : 8,
     "certification" : "free"
   },
-  {
-    "id" : 14,
+   {
+    "id" :  14,
     "platform" : "coursera",
     "free_course" : "yes",
-    "course_name" : "C Programming: Getting Started - 1",
-    "link" : "https://www.coursera.org/learn/c-programming-getting-started",
+    "course_name" : "Crash Course on Python",
+    "link" : "https://www.coursera.org/learn/python-crash-course",
     "difficulty" : "beginner",
-    "module_number" : 5,
+    "module_number" : 6,
     "certification" : "free"
   }
     
