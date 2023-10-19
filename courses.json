@@ -87,5 +87,16 @@
     "difficulty" : "beginner",
     "module_number" : 6,
     "certification" : "paid"
+  },
+  {
+     "id" :10 ,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name: "C and C++ Specialization",
+    "link" : "https://www.coursera.org/specializations/coding-for-everyone",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "paid" 
   }
+  
 ]
