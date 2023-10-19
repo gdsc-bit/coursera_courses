@@ -19,9 +19,38 @@
     "module_number" : 7,
     "certification" : "paid"
   },
-  
   {
     "id" :  3,
+    "platform" : "udemy",
+    "free_course" : "no",
+    "course_name" : "The Complete JavaScript Course 2023: From Zero to Expert!",
+    "link":"https://www.udemy.com/course/the-complete-javascript-course/",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "paid"
+  },
+  {
+    "id" :  4,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Meta Front-End Developer Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/meta-front-end-developer",
+    "difficulty" : "beginner",
+    "module_number" : 9,
+    "certification" : "paid"
+  },
+  {
+    "id" :  5,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Basic Java",
+    "link" : "https://www.coursera.org/learn/java-programming",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "free"
+  },
+  {
+    "id" :  6,
     "platform" : "coursera",
     "free_course" : "yes",
     "course_name" : "Basic Python Course",
