@@ -119,7 +119,7 @@
     "module_number" : 7,
     "certification" : "paid"
   },
-   {
+  {
     "id" :  13,
     "platform" : "coursera",
     "free_course" : "yes",
@@ -147,7 +147,16 @@
     "link" : "https://www.coursera.org/learn/java-introduction",
     "difficulty" : "beginner",
     "module_number" : 3,
+    "certification" : "paid",
+  },
+  {
+    "id" :  16,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Python and Statistics for Financial Analysis",
+    "link" : "https://www.coursera.org/learn/python-statistics-financial-analysis",
+    "difficulty" : "beginner",
+    "module_number" : 4,
     "certification" : "paid"
   }
-    
 ]
