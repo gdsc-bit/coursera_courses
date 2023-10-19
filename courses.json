@@ -38,5 +38,15 @@
     "difficulty" : "beginner",
     "module_number" : 9,
     "certification" : "paid"
+  },
+  {
+    "id" :  5,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Basic Java",
+    "link" : "https://www.coursera.org/learn/java-programming",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "free"
   }
 ]
