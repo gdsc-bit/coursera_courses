@@ -268,6 +268,16 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+  {
+    "id" :  28,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "Master of Applied Data Science",
+    "link" : "https://www.coursera.org/degrees/master-of-applied-data-science-umich",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "paid"
   }
   
 ]
