@@ -198,6 +198,16 @@
     "difficulty" : "beginner",
     "module_number" : 87,
     "certification" : "paid"
+  },
+  {
+    "id" :  21,
+    "platform" : "coursera",
+    "free_course" : "no",
+    "course_name" : "Meta iOS Developer Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/meta-ios-developer?",
+    "difficulty" : "beginner",
+    "module_number" : 12,
+    "certification" : "paid"  
   }
   
 ]
