@@ -248,6 +248,17 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+  {
+    "id" :  26,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Machine Learning with Python",
+    "link" : "https://www.coursera.org/learn/machine-learning-with-python",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "paid"
   }
   
 ]
+
