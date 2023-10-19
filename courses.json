@@ -278,7 +278,16 @@
     "difficulty" : "beginner",
     "module_number" : 4,
     "certification" : "paid"
-  }
-  
+  },
+  {
+    "id" :  29,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "Meta Back-End Developer Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/meta-back-end-developer?",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "paid"
+  }  
 ]
 
