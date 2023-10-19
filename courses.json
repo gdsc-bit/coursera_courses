@@ -129,7 +129,7 @@
     "module_number" : 8,
     "certification" : "free"
   },
-  {
+   {
     "id" :  14,
     "platform" : "coursera",
     "free_course" : "yes",
@@ -139,5 +139,5 @@
     "module_number" : 6,
     "certification" : "free"
   }
-   
+    
 ]
