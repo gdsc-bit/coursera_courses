@@ -1,4 +1,4 @@
-[
+
   {
     "id" :  1,
     "platform" : "coursera",
@@ -269,4 +269,6 @@
     "module_number" : 7,
     "certification" : "paid"
   }
+  
 ]
+
