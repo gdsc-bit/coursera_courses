@@ -79,7 +79,8 @@
     "module_number" : 7,
     "certification" : "free"
    },
-  {"id" :  9,
+  {
+    "id" :  9,
     "platform" : "coursera",
     "free_course" : "yes",
     "course_name" : "Cybersecurity for Everyone",
@@ -92,11 +93,21 @@
      "id" :10 ,
     "platform" : "coursera",
     "free_course" : "yes",
-    "course_name: "C and C++ Specialization",
+    "course_name": "Coding for Everyone:C and C++ Specialization",
     "link" : "https://www.coursera.org/specializations/coding-for-everyone",
     "difficulty" : "beginner",
     "module_number" : 4,
     "certification" : "paid" 
+  },
+  {
+    "id" :  11,
+    "platform" : "coursera",
+    "free_course" : "no",
+    "course_name" : "ChatGPT Advanced Data Analysis",
+    "link" : "https://www.coursera.org/learn/chatgpt-advanced-data-analysis",
+    "difficulty" : "beginner",
+    "module_number" : 3,
+    "certification" : "paid"
   }
-  
+
 ]
