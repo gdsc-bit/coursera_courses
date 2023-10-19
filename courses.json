@@ -159,8 +159,118 @@
     "module_number" : 4,
     "certification" : "paid"
   },
-    {
-    "id" :  17,
+  {
+    "id" :17 ,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Deep Learning Specialization",
+    "link" : "https://www.coursera.org/specializations/deep-learning",
+    "difficulty" : "intermediate",
+    "module_number" : 5,
+    "certification" : "paid"
+  },
+  {
+    "id" :  18,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Single Page Web Applications with AngularJS",
+    "link" : "https://www.coursera.org/learn/single-page-web-apps-with-angularjs",
+    "difficulty" : "beginner",
+    "module_number" : 9,
+    "certification" : "paid"
+  },
+  {
+    "id" :  19,
+    "platform" : "udemy",
+    "free_course" : "no",
+    "course_name" : "Learn Python Programming Masterclass",
+    "link" : "https://www.udemy.com/course/python-the-complete-python-developer-course/",
+    "difficulty" : "beginner",
+    "module_number" : 23,
+    "certification" : "paid"
+  },
+   {
+    "id" :  20,
+    "platform" : "coursera",
+    "free_course" : "no",
+    "course_name" : "R Level 1 - Data Analytics with R",
+    "link" : "https://www.udemy.com/course/r-level1/",
+    "difficulty" : "beginner",
+    "module_number" : 87,
+    "certification" : "paid"
+  },
+  {
+    "id" :  21,
+    "platform" : "coursera",
+    "free_course" : "no",
+    "course_name" : "Meta iOS Developer Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/meta-ios-developer?",
+    "difficulty" : "beginner",
+    "module_number" : 12,
+    "certification" : "paid"  
+  },
+  {
+    "id" :  22,
+    "platform" : "coursera",
+    "free_course" : "no",
+    "course_name" : "Master of Science in Cybersecurity Management",
+    "link" : "https://www.coursera.org/degrees/master-of-science-in-cybersecurity-management-utah",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
+  },
+  {
+    "id" :  23,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Game Theory",
+    "link" : "https://www.coursera.org/learn/game-theory-1",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "free"
+  },
+  {
+    "id" :  24,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "UX Design",
+    "link" : "https://www.coursera.org/professional-certificates/google-ux-design",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
+  },
+  { 
+    "id" : 25,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Basic C",
+    "link" : "https://coursera.com/Basic-C",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
+  },
+  {
+    "id" :  26,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Machine Learning with Python",
+    "link" : "https://www.coursera.org/learn/machine-learning-with-python",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "paid"
+  },
+  {
+    "id" :  27,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Data Analytics",
+    "link" : "https://coursera.org/professional-certificates/google-data-analytics",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
+  },
+  {
+    "id" :  28,
     "platform" : "coursera",
     "free_course" : "paid",
     "course_name" : "Master of Applied Data Science",
