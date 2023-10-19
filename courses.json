@@ -119,7 +119,7 @@
     "module_number" : 7,
     "certification" : "paid"
   },
-   {
+  {
     "id" :  13,
     "platform" : "coursera",
     "free_course" : "yes",
@@ -147,7 +147,7 @@
     "link" : "https://www.coursera.org/learn/java-introduction",
     "difficulty" : "beginner",
     "module_number" : 3,
-    "certification" : "paid", 
+    "certification" : "paid",
   },
   {
     "id" :  16,
