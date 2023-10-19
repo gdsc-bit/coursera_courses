@@ -21,6 +21,156 @@
   },
   {
     "id" :  3,
+    "platform" : "udemy",
+    "free_course" : "no",
+    "course_name" : "The Complete JavaScript Course 2023: From Zero to Expert!",
+    "link":"https://www.udemy.com/course/the-complete-javascript-course/",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "paid"
+  },
+  {
+    "id" :  4,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Meta Front-End Developer Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/meta-front-end-developer",
+    "difficulty" : "beginner",
+    "module_number" : 9,
+    "certification" : "paid"
+  },
+  {
+    "id" :  5,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Basic Java",
+    "link" : "https://www.coursera.org/learn/java-programming",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "free"
+  },
+  {
+    "id" :  6,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Basic Python Course",
+    "link" : "https://coursera.com/Basic-python",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "free"
+  },
+   {
+    "id" :  7,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Google Data Analytics Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
+  },
+  {
+    "id" :  8,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Python for Everybody Specialization",
+    "link" : "https://www.coursera.org/specializations/python",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "free"
+   },
+  {
+    "id" :  9,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Cybersecurity for Everyone",
+    "link" : "https://www.coursera.org/learn/cybersecurity-for-everyone",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "paid"
+  },
+  {
+     "id" :10 ,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name": "Coding for Everyone:C and C++ Specialization",
+    "link" : "https://www.coursera.org/specializations/coding-for-everyone",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "paid" 
+  },
+  {
+    "id" :  11,
+    "platform" : "coursera",
+    "free_course" : "no",
+    "course_name" : "ChatGPT Advanced Data Analysis",
+    "link" : "https://www.coursera.org/learn/chatgpt-advanced-data-analysis",
+    "difficulty" : "beginner",
+    "module_number" : 3,
+    "certification" : "paid"
+  },
+  {
+    "id" :  12,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "python for everybody",
+    "link" : "https://www.coursera.org/learn/python?specialization=python",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
+  },
+  {
+    "id" :  13,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "c programing for beginners",
+    "link" : "https://www.guvi.in/courses/programming/c-programming-for-beginners/",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "free"
+  },
+   {
+    "id" :  14,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Crash Course on Python",
+    "link" : "https://www.coursera.org/learn/python-crash-course",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "free"
+  },
+  {
+    "id" :  15,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Introduction to Java",
+    "link" : "https://www.coursera.org/learn/java-introduction",
+    "difficulty" : "beginner",
+    "module_number" : 3,
+    "certification" : "paid",
+  },
+  {
+    "id" :  16,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Python and Statistics for Financial Analysis",
+    "link" : "https://www.coursera.org/learn/python-statistics-financial-analysis",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "paid"
+  },
+  {
+    "id" :17 ,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Deep Learning Specialization",
+    "link" : "https://www.coursera.org/specializations/deep-learning",
+    "difficulty" : "intermediate",
+    "module_number" : 5,
+    "certification" : "paid"
+  },
+  {
+    "id" :  18,
     "platform" : "coursera",
     "free_course" : "yes",
     "course_name" : "Single Page Web Applications with AngularJS",
