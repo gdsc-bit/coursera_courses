@@ -298,6 +298,16 @@
     "difficulty" : "beginner",
     "module_number" : 4,
     "certification" : "free"
+  },
+   {
+    "id" :  31,
+    "platform" : "coursera",
+    "free_course" : "free",
+    "course_name" : "Introduction to Structured Query Language (SQL)",
+    "link" : "https://www.coursera.org/learn/intro-sql",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "free"
   }
 ]
 
