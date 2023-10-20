@@ -278,7 +278,16 @@
     "difficulty" : "beginner",
     "module_number" : 4,
     "certification" : "paid"
+  },
+  {
+    "id" :  29,
+    "platform" : "coursera",
+    "free_course" : "free",
+    "course_name" : "Databases and SQL for Data Science with Python",
+    "link" : "https://www.coursera.org/learn/sql-data-science",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "free"
   }
-  
 ]
 
