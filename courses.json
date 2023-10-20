@@ -279,6 +279,16 @@
     "module_number" : 4,
     "certification" : "paid"
   }
+  {
+    "id" :  29,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "GPU Programming Specialization",
+    "link" : "https://www.coursera.org/specializations/gpu-programming",
+    "difficulty" : "intermediate",
+    "module_number" : 4,
+    "certification" : "paid"
+  }
   
 ]
 
