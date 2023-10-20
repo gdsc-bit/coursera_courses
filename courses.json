@@ -308,6 +308,16 @@
     "difficulty" : "beginner",
     "module_number" : 4,
     "certification" : "free"
+  },
+  {
+    "id" :  32,
+    "platform" : "coursera",
+    "free_course" : "free",
+    "course_name" : "IBM Full Stack Software Developer Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "free"
   }
 ]
 
