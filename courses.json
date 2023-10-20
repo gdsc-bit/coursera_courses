@@ -288,6 +288,16 @@
     "difficulty" : "beginner",
     "module_number" : 4,
     "certification" : "paid"
-  }  
+  },
+  {
+    "id" :  30,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "Google UX Design Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/google-ux-design?",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "paid"
+  }
 ]
 
