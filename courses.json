@@ -298,6 +298,16 @@
     "difficulty" : "beginner",
     "module_number" : 4,
     "certification" : "paid"
+  },
+  {
+    "id" :  31,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "Introduction to Statistics",
+    "link" : "https://www.coursera.org/learn/stanford-statistics?",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "paid"
   }
 ]
 
