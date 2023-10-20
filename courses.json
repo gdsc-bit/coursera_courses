@@ -288,6 +288,16 @@
     "difficulty" : "beginner",
     "module_number" : 4,
     "certification" : "free"
+  },
+  {
+    "id" :  30,
+    "platform" : "coursera",
+    "free_course" : "free",
+    "course_name" : "Google Data Analytics (PT) Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/analise-de-dados-do-google",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "free"
   }
 ]
 
