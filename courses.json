@@ -278,9 +278,48 @@
     "difficulty" : "beginner",
     "module_number" : 4,
     "certification" : "paid"
+  }, {
+    "id" :  29,
+    "platform" : "coursera",
+    "free_course" : "free",
+    "course_name" : "Databases and SQL for Data Science with Python",
+    "link" : "https://www.coursera.org/learn/sql-data-science",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "free"
   },
   {
-    "id" :  29,
+    "id" :  30,
+    "platform" : "coursera",
+    "free_course" : "free",
+    "course_name" : "Google Data Analytics (PT) Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/analise-de-dados-do-google",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "free"
+  },
+   {
+    "id" :  31,
+    "platform" : "coursera",
+    "free_course" : "free",
+    "course_name" : "Introduction to Structured Query Language (SQL)",
+    "link" : "https://www.coursera.org/learn/intro-sql",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "free"
+  },
+  {
+    "id" :  32,
+    "platform" : "coursera",
+    "free_course" : "free",
+    "course_name" : "IBM Full Stack Software Developer Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "free"
+  },
+  {
+    "id" :  33,
     "platform" : "coursera",
     "free_course" : "paid",
     "course_name" : "Meta Back-End Developer Professional Certificate",
@@ -290,7 +329,7 @@
     "certification" : "paid"
   },
   {
-    "id" :  30,
+    "id" :  34,
     "platform" : "coursera",
     "free_course" : "paid",
     "course_name" : "Google UX Design Professional Certificate",
@@ -300,7 +339,7 @@
     "certification" : "paid"
   },
   {
-    "id" :  31,
+    "id" :  35,
     "platform" : "coursera",
     "free_course" : "paid",
     "course_name" : "Introduction to Statistics",
