@@ -280,7 +280,7 @@
     "certification" : "paid"
   },
   {
-    "id" :  29,
+   "id" :  29,
     "platform" : "coursera",
     "free_course" : "free",
     "course_name" : "Databases and SQL for Data Science with Python",
@@ -318,6 +318,36 @@
     "difficulty" : "beginner",
     "module_number" : 4,
     "certification" : "free"
+  },
+  {
+    "id" :  33,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "Meta Back-End Developer Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/meta-back-end-developer?",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "paid"
+  },
+  {
+    "id" :  34,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "Google UX Design Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/google-ux-design?",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "paid"
+  },
+  {
+    "id" :  35,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "Introduction to Statistics",
+    "link" : "https://www.coursera.org/learn/stanford-statistics?",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "paid"
   }
 ]
 
