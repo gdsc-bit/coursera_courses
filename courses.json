@@ -358,6 +358,16 @@
     "difficulty" : "intermediate",
     "module_number" : 4,
     "certification" : "paid"
+  },
+  {
+    "id" :  37,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "AWS Cloud Technology Consultant Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/aws-cloud-technology-consultant",
+    "difficulty" : "beginner",
+    "module_number" : 9,
+    "certification" : "paid"
   }
 ]
 
