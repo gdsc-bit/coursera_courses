@@ -358,6 +358,16 @@
     "difficulty" : "intermediate",
     "module_number" : 4,
     "certification" : "paid"
+  },
+  {
+    "id" :  37,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "Introduction to Blockchain Technologies",
+    "link" : "https://www.coursera.org/learn/introduction-blockchain-technologies",
+    "difficulty" : "beginner",
+    "module_number" : 5,
+    "certification" : "paid"
   }
 ]
 
