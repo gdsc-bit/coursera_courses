@@ -379,5 +379,15 @@
     "difficulty" : "beginner",
     "module_number" : 5,
     "certification" : "paid"
+  },
+  {
+    "id" :  39,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "Google Digital Marketing & E-commerce Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "paid"
   }
 ]
