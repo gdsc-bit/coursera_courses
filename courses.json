@@ -348,7 +348,8 @@
     "difficulty" : "beginner",
     "module_number" : 4,
     "certification" : "paid"
-  },
+  }
+  ,
   {
     "id" :  36,
     "platform" : "coursera",
@@ -390,4 +391,3 @@
     "certification" : "paid"
   }
 ]
-
