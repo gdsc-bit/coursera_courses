@@ -363,6 +363,26 @@
     "id" :  37,
     "platform" : "coursera",
     "free_course" : "paid",
+    "course_name" : "Mathematics for Engineers Specialization",
+    "link" : "https://www.coursera.org/specializations/mathematics-engineers#courses",
+    "difficulty" : "Begineer",
+    "module_number" : 5,
+    "certification" : "paid"
+  },
+  {
+    "id" :  38,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "Introduction to Blockchain Technologies",
+    "link" : "https://www.coursera.org/learn/introduction-blockchain-technologies",
+    "difficulty" : "beginner",
+    "module_number" : 5,
+    "certification" : "paid"
+  },
+  {
+    "id" :  39,
+    "platform" : "coursera",
+    "free_course" : "paid",
     "course_name" : "AWS Cloud Technology Consultant Professional Certificate",
     "link" : "https://www.coursera.org/professional-certificates/aws-cloud-technology-consultant",
     "difficulty" : "beginner",
