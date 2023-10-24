@@ -348,7 +348,8 @@
     "difficulty" : "beginner",
     "module_number" : 4,
     "certification" : "paid"
-  },
+  }
+  ,
   {
     "id" :  36,
     "platform" : "coursera",
@@ -358,6 +359,16 @@
     "difficulty" : "intermediate",
     "module_number" : 4,
     "certification" : "paid"
+  },
+  
+  {
+    "id" :  37,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "Mathematics for Engineers Specialization",
+    "link" : "https://www.coursera.org/specializations/mathematics-engineers#courses",
+    "difficulty" : "Begineer",
+    "module_number" : 5,
+    "certification" : "paid"
   }
 ]
-
