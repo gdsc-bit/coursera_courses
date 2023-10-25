@@ -384,6 +384,16 @@
     "id" :  39,
     "platform" : "coursera",
     "free_course" : "paid",
+    "course_name" : "AWS Cloud Technology Consultant Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/aws-cloud-technology-consultant",
+    "difficulty" : "beginner",
+    "module_number" : 9,
+    "certification" : "paid"
+  },
+  {
+    "id" :  40,
+    "platform" : "coursera",
+    "free_course" : "paid",
     "course_name" : "Google Digital Marketing & E-commerce Professional Certificate",
     "link" : "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce",
     "difficulty" : "beginner",
