@@ -399,5 +399,15 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+  {
+    "id" :  41,
+    "platform" : "coursera",
+    "free_course" : "paid",
+    "course_name" : "Key Technologies for Business Specialization",
+    "link" : "https://www.coursera.org/specializations/key-technologies-for-business",
+    "difficulty" : "beginner",
+    "module_number" : 3,
+    "certification" : "paid"
   }
 ]
