@@ -430,4 +430,15 @@
     "module_number" : 1,
     "certification" : "free"
   }
+  {
+    "id" :  44,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Oracle Cloud Infrastructure Foundations",
+    "link" : "https://www.coursera.org/learn/oraclecloud-infrastructure-foundations?action=enroll",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "paid"
+  }
+
 ]
