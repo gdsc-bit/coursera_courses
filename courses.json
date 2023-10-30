@@ -409,5 +409,15 @@
     "difficulty" : "beginner",
     "module_number" : 3,
     "certification" : "paid"
-  }
+  },
+  {
+    "id" :  42,
+    "platform" : "coursera",
+    "free_course" : "free",
+    "course_name" : "Google UX Design Professional Certificate",
+    "link" : "https://www.coursera.org/professional-certificates/google-ux-design?utm_medium=sem&utm_source=gg&utm_campaign=B2C_INDIA_machine-learning_deeplearning-ai_FTCOF_learn_arte-agency&campaignid=20669338277&adgroupid=155516302798&device=m&keyword=coursera%20ml&matchtype=b&network=g&devicemodel=&adposition=&creativeid=677314605822&hide_mobile_promo&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0Czrga7J30AK_IkNxG54u3gW_ogrT-CdqbCgKFhi3v9zAPSj4gPQkDJ0aAsK_EALw_wcB",
+    "difficulty" : "beginner",
+    "module_number" : 7,
+    "certification" : "free"
+  },
 ]
