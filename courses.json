@@ -413,11 +413,41 @@
   {
     "id" :  42,
     "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Deep Learning Inference with Azure ML Studio",
+    "link" : "https://www.coursera.org/courses?query=free&page=79",
+    "difficulty" : "beginner",
+    "module_number" : 1,
+    "certification" : "free"
+  },
+  {
+    "id" :  43,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Wrangling Data for Data Analysts with Python",
+    "link" : "https://www.coursera.org/projects/wrangling-data-for-data-analysts-with-python",
+    "difficulty" : "beginner",
+    "module_number" : 1,
+    "certification" : "free"
+  },
+  {
+    "id" :  44,
+    "platform" : "coursera",
+    "free_course" : "yes",
+    "course_name" : "Oracle Cloud Infrastructure Foundations",
+    "link" : "https://www.coursera.org/learn/oraclecloud-infrastructure-foundations?action=enroll",
+    "difficulty" : "beginner",
+    "module_number" : 4,
+    "certification" : "paid"
+  },
+  {
+    "id" :  45,
+    "platform" : "coursera",
     "free_course" : "free",
     "course_name" : "Google UX Design Professional Certificate",
     "link" : "https://www.coursera.org/professional-certificates/google-ux-design?utm_medium=sem&utm_source=gg&utm_campaign=B2C_INDIA_machine-learning_deeplearning-ai_FTCOF_learn_arte-agency&campaignid=20669338277&adgroupid=155516302798&device=m&keyword=coursera%20ml&matchtype=b&network=g&devicemodel=&adposition=&creativeid=677314605822&hide_mobile_promo&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0Czrga7J30AK_IkNxG54u3gW_ogrT-CdqbCgKFhi3v9zAPSj4gPQkDJ0aAsK_EALw_wcB",
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "free"
-  },
+  }
 ]
