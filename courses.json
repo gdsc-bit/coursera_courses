@@ -450,35 +450,5 @@
     "module_number" : 7,
     "certification" : "free"
   }
-   {
-    "id" :  42,
-    "platform" : "coursera",
-    "free_course" : "yes",
-    "course_name" : "Deep Learning Inference with Azure ML Studio",
-    "link" : "https://www.coursera.org/courses?query=free&page=79",
-    "difficulty" : "beginner",
-    "module_number" : 1,
-    "certification" : "free"
-  }
-  {
-    "id" :  43,
-    "platform" : "coursera",
-    "free_course" : "yes",
-    "course_name" : "Wrangling Data for Data Analysts with Python",
-    "link" : "https://www.coursera.org/projects/wrangling-data-for-data-analysts-with-python",
-    "difficulty" : "beginner",
-    "module_number" : 1,
-    "certification" : "free"
-  }
-  {
-    "id" :  44,
-    "platform" : "coursera",
-    "free_course" : "yes",
-    "course_name" : "Oracle Cloud Infrastructure Foundations",
-    "link" : "https://www.coursera.org/learn/oraclecloud-infrastructure-foundations?action=enroll",
-    "difficulty" : "beginner",
-    "module_number" : 4,
-    "certification" : "paid"
-  }
 
 ]
